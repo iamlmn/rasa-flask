@@ -9,3 +9,7 @@ rasa run -m models --enable-api  # this command lets you make HTTP requests in h
 ```
 
 # setup flask server 
+```
+cd app
+python app.py / flask run app.py
+```
